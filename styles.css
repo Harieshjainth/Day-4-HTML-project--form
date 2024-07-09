@@ -1,0 +1,20 @@
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 50%;
+    background-color:#66d4cb;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    color: rgb(32, 63, 201);
+}
+#main{
+    text-align:center;
+    flex:20%;
+    background-color: #c2edfa;
+    border-radius: 10px;
+}
+body{
+    background-color: #66d4cb;
+}
